@@ -1,7 +1,0 @@
-rootProject.name = 'Chapter_03'
-include 'conditional'
-include 'externals'
-include 'profiles'
-include 'scopedbeans'
-
-
